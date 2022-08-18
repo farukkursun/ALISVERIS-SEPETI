@@ -1,0 +1,60 @@
+body {
+  background-color: whitesmoke;
+}
+table {
+  border-collapse: collapse;
+}
+.baslik {
+  background-color: greenyellow;
+  height: 10vh;
+  font-size: 3em;
+  padding-left: 100px;
+  padding-top: 50px;
+  color: white;
+}
+.genel {
+  height: 100%;
+  background-color: whitesmoke;
+  /* height: 85vh; */
+}
+.sepet {
+  margin: 10;
+  width: 80%;
+  height: 70vh;
+}
+.sepet tr:nth-child(1) {
+  background-color: rgb(37, 36, 36);
+  color: white;
+}
+.sepet tr:nth-child(2) {
+  background-color: lightgrey;
+}
+.sepet tr:nth-child(4) {
+  background-color: lightgrey;
+}
+.sepet tr:nth-child(6) {
+  background-color: lightgrey;
+}
+.sepet tr:nth-child(8) {
+  background-color: rgb(37, 36, 36);
+  color: white;
+}
+.fa.solid {
+  font-size: 20;
+}
+button {
+  background-color: salmon;
+  width: 150px;
+  height: 50px;
+  margin-top: 10px;
+  float: right;
+  margin-left: 30px;
+}
+button:hover {
+  background-color: aliceblue;
+}
+.bir {
+  margin: 30px;
+}
+.baslik {
+}
